@@ -1,5 +1,8 @@
-# deberprogramadeconsola
+# deberprogramadeconsola VIDEOJUEGO DRAGONBALL Z
 Mi programa pide datos sobre el juego Dragon ball z y todas las sagas en los cuales te preguntaran informacion sobre tu personaje favorito tambien podremos encontrar datos de verdadero y falso a ver si en realidad sabe sobre el juego y datos sobre porcentajes de poderes y fuerza de los personajes asi funciona el programa.
+
+
+
 
 Los datos del juego ingresados son: 
 Nombre del personaje: Gohan
