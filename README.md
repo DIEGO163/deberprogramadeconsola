@@ -60,3 +60,12 @@ la hija de gohan se llama: pan
 6 el nivel de ki alcanzado por su personaje es: 44100
 Muchas gracias te esperamos hasta la proxima:)
 digite cualquier tecla para terminar.z
+
+
+
+![image](https://user-images.githubusercontent.com/71235571/122792602-edf70300-d27f-11eb-980a-1f06b4a34e6c.png)
+
+
+
+
+
