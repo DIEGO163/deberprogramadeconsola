@@ -5,6 +5,9 @@ Mi programa pide datos sobre el juego Dragon ball z y todas las sagas en los cua
 ![image](https://user-images.githubusercontent.com/71235571/122792884-2c8cbd80-d280-11eb-8663-4b436e3a140d.png)
 ![image](https://user-images.githubusercontent.com/71235571/122792959-462e0500-d280-11eb-9c1c-d6884ff4f239.png)
 
+valores Verdadero o Falso
+![image](https://user-images.githubusercontent.com/71235571/122796516-1bde4680-d284-11eb-9df4-b429d44b47ff.png)
+
 
 
 
